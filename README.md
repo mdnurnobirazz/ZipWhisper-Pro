@@ -24,14 +24,15 @@ Crack forgotten ZIP passwords quietly and stylishly — like a whisper in the da
 Installation
 1. Clone the repo (recommended)
 git clone https://github.com/mdnurnobirazz/ZipWhisper-Pro.git
+
 cd ZipWhisper-Pro
-2. Or download only the script
+3. Or download only the script
 wget https://raw.githubusercontent.com/mdnurnobirazz/ZipWhisper-Pro/main/zip_whisper_pro.py
-3. Install dependencies
+4. Install dependencies
 pip install pyzipper tqdm
 Termux users (if Python not installed yet):
 pkg update && pkg install python -y
-4. Download a powerful wordlist (must for dictionary mode)
+5. Download a powerful wordlist (must for dictionary mode)
 wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 (≈140 MB, contains 14+ million common passwords — best starting point)
 How to Use
