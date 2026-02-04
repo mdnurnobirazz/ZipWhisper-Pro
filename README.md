@@ -12,7 +12,7 @@ Supports AES + ZipCrypto encrypted ZIP files.
 - Progress bar
 - Auto extract files
 - Simple interactive menu
-- Termux friendly **
+- Termux friendly
 
 ---
 
