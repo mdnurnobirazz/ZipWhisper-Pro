@@ -1,4 +1,4 @@
-#🔐 ZipWhisper Pro
+# 🔐 ZipWhisper Pro
 
 Fast & stylish ZIP password recovery tool for Termux / Linux / macOS.
 Supports AES + ZipCrypto encrypted ZIP files.
