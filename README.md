@@ -19,7 +19,6 @@ Supports AES + ZipCrypto encrypted ZIP files.
 🚀 Quick Start (Copy & Paste)
 
 📱 Termux
-bash
 ```
 pkg update -y && pkg install python git -y
 git clone https://github.com/mdnurnobirazz/ZipWhisper-Pro.git
@@ -28,7 +27,7 @@ pip install -r requirements.txt
 python zip_whisper_pro.py
 ```
 🐧 Linux / Ubuntu / Kali
-bash
+
 ```
 git clone https://github.com/mdnurnobirazz/ZipWhisper-Pro.git
 cd ZipWhisper-Pro
@@ -40,7 +39,7 @@ python3 zip_whisper_pro.py
 ▶️ Usage
 
 Run:
-bash
+
 ```
 python zip_whisper_pro.py
 ```
@@ -54,7 +53,7 @@ Menu:
 ---
 
 📚 Get Wordlist (Recommended)
-bash
+
 ```
 wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 ```
