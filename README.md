@@ -23,6 +23,7 @@ Supports AES + ZipCrypto encrypted ZIP files.
 pkg update -y && pkg install python git -y
 git clone https://github.com/mdnurnobirazz/ZipWhisper-Pro.git
 cd ZipWhisper-Pro
+pip install pyzipper
 pip install -r requirements.txt
 python zip_whisper_pro.py
 ```
@@ -31,6 +32,7 @@ python zip_whisper_pro.py
 ```
 git clone https://github.com/mdnurnobirazz/ZipWhisper-Pro.git
 cd ZipWhisper-Pro
+pip install pyzipper
 pip3 install -r requirements.txt
 python3 zip_whisper_pro.py
 ```
